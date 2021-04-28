@@ -14,9 +14,9 @@ Config = {}
 
 Config.DiscordAppID = "" -- Aplication id from discord dev portal. example. 23423423423423432
 
-Config.DiscordMainPhotoLink = "" -- Link to photo to display. example. https://g0dp0li3h.pl/adhasohdasuhdashdiuah.png
+Config.DiscordMainPhotoLink = "" -- Name of asset photo to display. example. logo_main
 
-Config.DiscordSmallPhotoLink = "" -- Link to small photo to display. example. https://g0dp0li3h.pl/jsdffjdhfhdsk.png
+Config.DiscordSmallPhotoLink = "" -- Name of asset small photo to display. example. logo_small
 
 Config.DiscordMainPhotoText = "" -- Text to display on main photo. example. My RolePlayServer
 
